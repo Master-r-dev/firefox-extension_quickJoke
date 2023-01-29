@@ -1,0 +1,21 @@
+{
+    "jokes": [		
+		{
+            "Joke": "I have the brain of a German Shepard and the body of 16-year-old boy. They're both in my car and I want you to see them.",
+            "Creator": "Bob Saget",
+            "ID": "0"
+        },
+		
+		{
+            "Joke": "Soon, I'm going to meet somebody around my own age, and she's going to be smart and beautiful, and I'm going to date her daughter.",
+            "Creator": "Bob Saget",
+            "ID": "1"
+        },
+		
+		{
+            "Joke": "Jon Lovitz. Jon, your act is like masturbation: you're the only one who enjoys it, and you should be arrested for doing it in public.",
+            "Creator": "Bob Saget",
+            "ID": "2"
+        }
+		]
+}

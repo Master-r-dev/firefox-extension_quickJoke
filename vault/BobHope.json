@@ -1,0 +1,106 @@
+{
+    "jokes":  [
+		{
+            "Joke": "A bank is a place that will lend you money if you can prove that you don't need it.",
+            "Creator": "Bob Hope",
+            "ID": "0"
+        },
+		
+		{
+            "Joke": "I thought 'Deep Throat' was a movie about a giraffe.",
+            "Creator": "Bob Hope",
+            "ID": "1"
+        },
+		{
+            "Joke": "When she started to play, Steinway came down personally and rubbed his name off the piano.",
+            "Creator": "Bob Hope",
+            "ID": "2"
+        },
+		
+        {
+            "Joke": "I’ve never seen six hours whiz by so fast. (about Oscars ceremony)",
+            "Creator": "Bob Hope",
+            "ID": "3"
+        },
+		{
+            "Joke": "Senator McCarthy is going to disclose the names of 2 million Communists. He just got his hands on a Moscow telephone book.",
+            "Creator": "Bob Hope",
+            "ID": "4"
+        },
+		{
+            "Joke": "As we flew in, they gave us a 21-gun salute. Three of them were ours. (Vietnam war)",
+            "Creator": "Bob Hope",
+            "ID": "5"
+        },
+		{
+            "Joke": "It just proves one thing: Their German scientists are better than our German scientists. (about Soviet vs USA space race)",
+            "Creator": "Bob Hope",
+            "ID": "6"
+        },
+		{
+            "Joke": "The country is behind you, 50 percent. (Vietnam war)",
+            "Creator": "Bob Hope",
+            "ID": "7"
+        },
+		{
+            "Joke": "They were a very well matched pair: He snores and she is deaf.",
+            "Creator": "Bob Hope",
+            "ID": "8"
+        },
+		{
+            "Joke": "You know you are getting old when the candles cost more than the cake",
+            "Creator": "Bob Hope",
+            "ID": "9"
+        },
+		{
+            "Joke": "I grew up with six brothers. That`s how I learned to dance waiting for the bathroom",
+            "Creator": "Bob Hope",
+            "ID": "10"
+        },
+		{
+            "Joke": "I asked my good friend, Arnold Palmer how I could improve my game, he advised me to Cheat!",
+            "Creator": "Bob Hope",
+            "ID": "12"
+        },
+		{
+            "Joke": "Out here in the Pacific, they have typhoons and hurricanes that blow over 200 miles an hour. We have tornadoes and hurricanes back home, but I don't worry about them. The mortgage on my house is so heavy that nothing could budge it.",
+            "Creator": "Bob Hope",
+            "ID": "13"
+        },
+		{
+            "Joke": "One sailor told me the pretty nurse on his ward really knows her job. She takes our blood pressure and then deducts twenty points for - white dress - syndrome.",
+            "Creator": "Bob Hope",
+            "ID": "14"
+        },
+		{
+            "Joke": "The Democrats have an answer to the unemployment problem. They're all running for the presidency",
+            "Creator": "Bob Hope",
+            "ID": "15"
+        },
+		{
+            "Joke": "It's so cold here in Washington, D.C., that politicians have their hands in their own pockets.",
+            "Creator": "Bob Hope",
+            "ID": "16"
+        },
+		{
+            "Joke": "Television. That's where movies go when they die.",
+            "Creator": "Bob Hope",
+            "ID": "17"
+        },
+		{
+            "Joke": "Ronald Reagan is not a typical politician because he doesn't know how to lie, cheat, and steal. He's always had an agent do that.",
+            "Creator": "Bob Hope",
+            "ID": "18"
+        },
+				{
+            "Joke": "When they asked Jack Benny to do something for the Actor's Orphanage - he shot both his parents and moved in.",
+            "Creator": "Bob Hope",
+            "ID": "19"
+        },
+				{
+            "Joke": "Bigamy is the only crime where two rites make a wrong. ",
+            "Creator": "Bob Hope",
+            "ID": "20"
+        }
+		]
+}

@@ -1,0 +1,55 @@
+{
+    "jokes":  [
+		{
+            "Joke": "I was born a suspect. I can walk down any street in America and women will clutch their purses tighter, hold onto their mace, lock their car doors. If I look up into the windows of the apartments I pass, I can see old ladies on the phone. They've already dialed 9-1- and are just waiting for me to do something wrong.",
+            "Creator": "Chris Rock",
+            "ID": "0"
+        },
+		
+		{
+            "Joke": "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are Bush, Dick, Colon.",
+            "Creator": "Chris Rock",
+            "ID": "1"
+        },
+		
+		{
+            "Joke": "The only thing I know about Africa is that it's far, far away. About a thirty-five hour flight. The boat ride's so long, there are still slaves on their way here.",
+            "Creator": "Chris Rock",
+            "ID": "2"
+        },
+		
+		{
+            "Joke": "My mother is the kind of woman you don't want to be in line behind at the supermarket. She has coupons for coupons.",
+            "Creator": "Chris Rock",
+            "ID": "3"
+        },
+		
+		{
+            "Joke": "Gay people got a right to be as miserable as everybody else.",
+            "Creator": "Chris Rock",
+            "ID": "4"
+        },
+		
+		{
+            "Joke": "You won't be able to take your eyes off the next four presenters: Salma Hayek and Penelope Cruz.",
+            "Creator": "Chris Rock",
+            "ID": "5"
+        },
+		
+		{
+            "Joke": "I don't get high, but sometimes I wish I did. That way, when I messed up in life I would have an excuse. But right now there's no rehab for stupidity.",
+            "Creator": "Chris Rock",
+            "ID": "6"
+        },
+		
+		{
+            "Joke": "I live in a neighborhood so bad that you can get shot while getting shot.",
+            "Creator": "Chris Rock",
+            "ID": "7"
+        },
+		{
+            "Joke": "If you wanna get away with murder, shoot him in the head and put a demo tape in their pocket!",
+            "Creator": "Chris Rock",
+            "ID": "8"
+        }]
+}

@@ -1,0 +1,265 @@
+{
+    "jokes": [      {
+        "Joke": "On the other hand, you have different fingers.",
+        "Creator": "Steven Wright",
+        "ID": "0"
+    },
+    {
+        "Joke": "A lot of people are afraid of heights. Not me, I'm afraid of widths.",
+        "Creator": "Steven Wright",
+        "ID": "1"
+    },
+    {
+        "Joke": "At one point he decided enough was enough.",
+        "Creator": "Steven Wright",
+        "ID": "2"
+    },
+    {
+        "Joke": "Cross country skiing is great if you live in a small country.",
+        "Creator": "Steven Wright",
+        "ID": "3"
+    },
+    {
+        "Joke": "Babies don't need a vacation, but I still see them at the beach... it pisses me off! I'll go over to a little baby and say 'What are you doing here? You haven't worked a day in your life!'",
+        "Creator": "Steven Wright",
+        "ID": "4"
+    },
+    {
+        "Joke": "I was once walking through the forest alone. A tree fell right in front of me, and I didn't hear a thing.",
+        "Creator": "Steven Wright",
+        "ID": "5"
+    },
+    {
+        "Joke": "I have a large seashell collection which I keep scattered on the beaches all over the world. Maybe you've seen it.",
+        "Creator": "Steven Wright",
+        "ID": "6"
+    },
+    {
+        "Joke": "When I first read the dictionary, I thought it was a long poem about everything.",
+        "Creator": "Steven Wright",
+        "ID": "7"
+    },
+    {
+        "Joke": "They say you're not supposed to put metal in a microwave oven. They're right.",
+        "Creator": "Steven Wright",
+        "ID": "8"
+    },
+    {
+        "Joke": "I have a paper cut from writing my suicide note. It's a start...",
+        "Creator": "Steven Wright",
+        "ID": "9"
+    },
+    {
+        "Joke": "Do Lipton employees take coffee breaks?",
+        "Creator": "Steven Wright",
+        "ID": "10"
+    },
+    {
+        "Joke": "Do you think that when they asked George Washington for ID that he just whipped out a quarter?",
+        "Creator": "Steven Wright",
+        "ID": "11"
+    },
+    {
+        "Joke": "Everywhere is within walking distance if you have the time.",
+        "Creator": "Steven Wright",
+        "ID": "12"
+    },
+    {
+        "Joke": "How young can you die of old age?",
+        "Creator": "Steven Wright",
+        "ID": "13"
+    },
+    {
+        "Joke": "I bought some powder water one time but I didn't know what to add to it.",
+        "Creator": "Steven Wright",
+        "ID": "14"
+    },
+    {
+        "Joke": "I busted a mirror and got seven years bad luck, but my lawyer thinks he can get me five.",
+        "Creator": "Steven Wright",
+        "ID": "15"
+    },
+    {
+        "Joke": "I had some eyeglasses. I was walking down the street when suddenly the prescription ran out.",
+        "Creator": "Steven Wright",
+        "ID": "16"
+    },
+    {
+        "Joke": "I installed a skylight in my apartment... the people who live above me are furious!",
+        "Creator": "Steven Wright",
+        "ID": "17"
+    },
+    {
+        "Joke": "I like to reminisce with people I don't know.",
+        "Creator": "Steven Wright",
+        "ID": "18"
+    },
+    {
+        "Joke": "I remember when the candle shop burned down. Everyone stood around singing 'Happy Birthday.'",
+        "Creator": "Steven Wright",
+        "ID": "19"
+    },
+    {
+        "Joke": "I stayed in a really old hotel last night. They sent me a wake-up letter.",
+        "Creator": "Steven Wright",
+        "ID": "20"
+    },
+    {
+        "Joke": "I think God's going to come down and pull civilization over for speeding.",
+        "Creator": "Steven Wright",
+        "ID": "21"
+    },
+    {
+        "Joke": "I think it's wrong that only one company makes the game Monopoly.",
+        "Creator": "Steven Wright",
+        "ID": "22"
+    },
+    {
+        "Joke": "I went down the street to the 24-hour grocery. When I got there, the guy was locking the front door. I said, 'Hey, the sign says you're open 24 hours.' He said, 'Yes, but not in a row.'",
+        "Creator": "Steven Wright",
+        "ID": "23"
+    },
+    {
+        "Joke": "I went to a general store but they wouldn't let me buy anything specific.",
+        "Creator": "Steven Wright",
+        "ID": "24"
+    },
+    {
+        "Joke": "I went to a restaurant that serves `breakfast at any time`. So I ordered French Toast during the Renaissance.",
+        "Creator": "Steven Wright",
+        "ID": "25"
+    },
+    {
+        "Joke": "I wrote a few children's books... not on purpose.",
+        "Creator": "Steven Wright",
+        "ID": "26"
+    },
+    {
+        "Joke": "I'm writing a book. I've got the page numbers done.",
+        "Creator": "Steven Wright",
+        "ID": "27"
+    },
+    {
+        "Joke": "I'm writing an unauthorized autobiography.",
+        "Creator": "Steven Wright",
+        "ID": "28"
+    },
+    {
+        "Joke": "If a word in the dictionary were misspelled, how would we know?",
+        "Creator": "Steven Wright",
+        "ID": "29"
+    },
+    {
+        "Joke": "If one synchronised swimmer drowns, do all the rest have to drown too?",
+        "Creator": "Steven Wright",
+        "ID": "30"
+    },
+    {
+        "Joke": "If you can't hear me, it's because I'm in parentheses.",
+        "Creator": "Steven Wright",
+        "ID": "31"
+    },
+    {
+        "Joke": "If you had a million Shakespeares, could they write like a monkey?",
+        "Creator": "Steven Wright",
+        "ID": "32"
+    },
+    {
+        "Joke": "In Vegas, I got into a long argument with the man at the roulette wheel over what I considered to be an odd number.",
+        "Creator": "Steven Wright",
+        "ID": "33"
+    },
+    {
+        "Joke": "It doesn't make a difference what temperature a room is, it's always room temperature.",
+        "Creator": "Steven Wright",
+        "ID": "34"
+    },
+    {
+        "Joke": "It's a small world, but I wouldn't want to have to paint it.",
+        "Creator": "Steven Wright",
+        "ID": "35"
+    },
+    {
+        "Joke": "Last night I stayed up late playing poker with Tarot cards. I got a full house and four people died.",
+        "Creator": "Steven Wright",
+        "ID": "36"
+    },
+    {
+        "Joke": "Last year I went fishing with Salvador Dali. He was using a dotted line. He caught every other fish.",
+        "Creator": "Steven Wright",
+        "ID": "37"
+    },
+    {
+        "Joke": "My friend has a baby. I'm recording all the noises he makes so later I can ask him what he meant.",
+        "Creator": "Steven Wright",
+        "ID": "38"
+    },
+    {
+        "Joke": "Sponges grow in the ocean. That just kills me. I wonder how much deeper the ocean would be if that didn't happen.",
+        "Creator": "Steven Wright",
+        "ID": "39"
+    },
+    {
+        "Joke": "The other day I... uh, no, that wasn't me.",
+        "Creator": "Steven Wright",
+        "ID": "40"
+    },
+    {
+        "Joke": "What a nice night for an evening.",
+        "Creator": "Steven Wright",
+        "ID": "41"
+    },
+    {
+        "Joke": "When I was a little kid we had a sand box. It was a quicksand box. I was an only child... eventually.",
+        "Creator": "Steven Wright",
+        "ID": "42"
+    },
+    {
+        "Joke": "When I was crossing the border into Canada, they asked if I had any firearms with me. I said, `Well, what do you need?`",
+        "Creator": "Steven Wright",
+        "ID": "43"
+    },
+    {
+        "Joke": "You can't have everything. Where would you put it?",
+        "Creator": "Steven Wright",
+        "ID": "44"
+    },
+    {
+        "Joke": "I got a dog and named him 'Stay'. Now, I go 'Come here, Stay!' After a while, the dog went insane and wouldn't move at all.",
+        "Creator": "Steven Wright",
+        "ID": "45"
+    },
+    {
+        "Joke": "In my house there's this light switch that doesn't do anything. Every so often I would flick it on and off just to check. Yesterday, I got a call from a woman in Germany. She said, `Cut it out.`",
+        "Creator": "Steven Wright",
+        "ID": "46"
+    },
+    {
+        "Joke": "When I turned two I was really anxious, because I'd doubled my age in a year. I thought, if this keeps up, by the time I'm six I'll be ninety.",
+        "Creator": "Steven Wright",
+        "ID": "47"
+    },
+    {
+        "Joke": "I wrote a song, but I can't read music so I don't know what it is. Every once in a while I'll be listening to the radio and I say, `I think I might have written that.`",
+        "Creator": "Steven Wright",
+        "ID": "48"
+    },
+    {
+        "Joke": "My girlfriend asked me how long I was going to be gone on this tour. I said, `the whole time`.",
+        "Creator": "Steven Wright",
+        "ID": "49"
+    },
+    {
+        "Joke": "Some friends of mine got me a sweater for my birthday. I'd have preferred a moaner or a screamer, but the sweater was OK.",
+        "Creator": "Steven Wright",
+        "ID": "50"
+    },
+    {
+        "Joke": "When I woke up this morning my girlfriend asked me, `Did you sleep good?` I said `No, I made a few mistakes.`",
+        "Creator": "Steven Wright",
+        "ID": "51"
+    } 
+    
+
+]
+}

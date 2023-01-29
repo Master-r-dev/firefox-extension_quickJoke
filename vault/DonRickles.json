@@ -1,0 +1,39 @@
+{
+    "jokes":  [
+		{
+            "Joke": "When you enter a room, you have to kiss his ring. I don't mind, but he has it in his back pocket. (on Frank Sinatra) .",
+            "Creator": "Don Rickles",
+            "ID": "0"
+        },
+		{
+            "Joke": "Show business is my life. When I was a kid I sold insurance, but nobody laughed.",
+            "Creator": "Don Rickles",
+            "ID": "1"
+        },
+		{
+            "Joke": "De Niro, he’s sitting there. He’s one of the great actors of our time. You ask him.",
+            "Creator": "Don Rickles",
+            "ID": "2"
+        },
+		{
+            "Joke": "You don’t have to call me ‘sir’ … King of All Jews is enough.",
+            "Creator": "Don Rickles",
+            "ID": "3"
+        },
+		{
+            "Joke": "Is that your wife, sir? Jesus… what was it, a train?",
+            "Creator": "Don Rickles",
+            "ID": "4"
+        },
+		{
+            "Joke": "I've got an accountant who's been with me forty years. If he makes a mistake, he dies.",
+            "Creator": "Don Rickles",
+            "ID": "5"
+        },
+		{
+            "Joke": "Who picks your clothes - Stevie Wonder?",
+            "Creator": "Don Rickles",
+            "ID": "6"
+        }
+]
+}

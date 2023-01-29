@@ -1,0 +1,84 @@
+{
+    "jokes": [
+ 	
+		{
+            "Joke": "Think of how stupid the average person is, and realize half of them are stupider than that.",
+            "Creator": "George Carlin",
+            "ID": "0"
+        },
+		{
+            "Joke": "I never fucked a ten, but one night, I fucked five twos.",
+            "Creator": "George Carlin",
+            "ID": "1"
+        },		
+		{
+            "Joke": "What year did Jesus think it was?",
+            "Creator": "George Carlin",
+            "ID": "2"
+        },
+		{
+            "Joke": "The real reason that we can't have the Ten Commandments in a courthouse: You cannot post Thou shalt not steal,� �Thou shalt not commit adultery, and Thou shalt not lie in a building full of lawyers, judges, and politicians. It creates a hostile work environment.",
+            "Creator": "George Carlin",
+            "ID": "3"
+        },
+		{
+            "Joke": "I'm not into working out. My philosophy is no pain, no pain. ",
+            "Creator": "George Carlin",
+            "ID": "4"
+        },		
+		{
+            "Joke": "Why do they lock gas station bathrooms? Are they afraid someone will clean them?",
+            "Creator": "George Carlin",
+            "ID": "5"
+        },
+		{
+            "Joke": "Why is it called tourist season if we can't shoot at them?",
+            "Creator": "George Carlin",
+            "ID": "6"
+        },
+		{
+            "Joke": "I've always wanted to be somebody, but I should have been more specific.",
+            "Creator": "George Carlin",
+            "ID": "7"
+        },
+		{
+            "Joke": "The Golden Gate Bridge should have a long bungee cord for people who aren't quite ready to commit suicide but want to get in a little ",
+            "Creator": "George Carlin",
+            "ID": "8"
+        },
+		{
+            "Joke": "Why is the alphabet in that order? Is it because of that song?",
+            "Creator": "George Carlin",
+            "ID": "9"
+        },
+		{
+            "Joke": "If the black box flight recorder is never damaged during a plane crash, why isn't the whole damn airplane made out of that shit?",
+            "Creator": "George Carlin",
+            "ID": "10"
+        },
+		{
+            "Joke": "Get on the plane, get on the plane. I say, FUCK YOU! I'm getting IN the plane! Evel Knievel can get ON the plane. There seems to be less wind in here!",
+            "Creator": "George Carlin",
+            "ID": "11"
+        },
+		{
+            "Joke": "One nice thing about egotists: they don't talk about other people.",
+            "Creator": "George Carlin",
+            "ID": "12"
+        },
+		{
+            "Joke": "Do infants enjoy infancy as much as adults enjoy adultery?",
+            "Creator": "George Carlin",
+            "ID": "13"
+        },
+		{
+            "Joke": "In America anyone can become President. That's the problem.",
+            "Creator": "George Carlin",
+            "ID": "14"
+        },
+		{
+            "Joke": "One out of every three Americans is suffering from some form of mental illness. Think of two of your best friends. If they are OK, then it must be you.",
+            "Creator": "George Carlin",
+            "ID": "15"
+        }]
+}

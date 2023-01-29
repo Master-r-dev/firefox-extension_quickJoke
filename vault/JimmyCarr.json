@@ -1,0 +1,54 @@
+{
+    "jokes": [
+        {
+            "Joke": "The reason old man use Viagra is not that they are impotent. It's that old women are so very ugly.",
+            "Creator": "Jimmy Carr",
+            "ID": "0"
+      },
+      {
+        "Joke": "No matter how much you give a homeless person for tea... you never get that tea.",
+        "Creator": "Jimmy Carr",
+        "ID": "1"
+    } ,
+    {
+        "Joke": "When someone close to you dies, move seats.",
+        "Creator": "Jimmy Carr",
+        "ID": "2"
+    },
+    {
+        "Joke": "Boxers don't have sex before a fight, do you know why that is? They don't fancy each other.",
+        "Creator": "Jimmy Carr",
+        "ID": "3"
+    },
+    {
+        "Joke": "I'm not worried about the Third World War. That's the Third World's Problem.",
+        "Creator": "Jimmy Carr",
+        "ID": "4"
+    },
+    {
+        "Joke": "British scientists have demonstrated that cigarettes can harm your children. Fair enough. Use an ashtray!",
+        "Creator": "Jimmy Carr",
+        "ID": "5"
+    },
+    {
+        "Joke": "Did you know you're ten times more likely to get mugged in London than New York city? Thats because you don't live in new york city",
+        "Creator": "Jimmy Carr",
+        "ID": "6"
+    },
+    {
+        "Joke": "I'm not being condescending, I'm too busy thinking about far more important things you wouldn't understand.",
+        "Creator": "Jimmy Carr",
+        "ID": "7"
+    },
+    {
+        "Joke": "Throwing acid is wrong, in some people's eyes.",
+        "Creator": "Jimmy Carr",
+        "ID": "8"
+    },
+    {
+        "Joke": "I worry about my nan. If she's alone and falls, does she make a noise? I'm joking, she's dead.",
+        "Creator": "Jimmy Carr",
+        "ID": "9"
+    }
+    ]
+}
