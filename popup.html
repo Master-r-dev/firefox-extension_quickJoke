@@ -4,13 +4,59 @@
     <link rel="stylesheet" href="popup.css" />
   </head>
   <body>
-    <main>
-      <div class="container">
-        <h1 class="heading">quickJoke</h1>
-        <h3 class="sub-heading">A joke upon demand out of selected collection from the top-shelf comedians.</h3>
-        <div id="main-content"></div>
-      </div>
-    </main>
-    <script src="popup.js"></script>
+    <div id="main-content">         
+        <div id="heading">quickJoke</div>
+        <div id="icon" >
+          <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 800 800">
+            <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+            <path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-144c-17.7 0-32-14.3-32-32s14.3-32 32-32s32 14.3 32 32s-14.3 32-32 32z"/>
+          </svg>         
+        </div>           
+        <div id="info_t" > 
+            <h4 class="sub-heading">
+              <p>A joke upon demand out of selected collection from the top-shelf comics. Hover over (~2 seconds) any button to see what it does.</p>
+              <p>Send corrections/suggestions to email below </p>
+              <p>*This extension is not affiliated with those comics in any way. Its just my love letter for comics and comedy as a whole</p>
+            </h4>                     
+        </div>  
+        <div class="section">
+          <label for="choiceC">Comic:</label>
+          <select id="choiceC" >                  
+            <option value="NormMacdonald"> Norm Macdonald</option>      
+            <option value="BoBurhnam"> Bo Burhnam</option>
+            <option value="BobHope" selected="selected"> Bob Hope</option>    
+            <option value="BobSaget"> Bob Saget</option>
+            <option value="ChrisRock"> Chris Rock</option>
+            <option value="DonRickles">Don Rickles</option>    
+            <option value="GeorgeCarlin">George Carlin</option>
+            <option value="GilbertGd">Gilbert Gottfried</option>
+            <option value="JimmyCarr">Jimmy Carr</option>  
+            <option value="RodneyDangerfield">Rodney Dangerfield</option>
+            <option value="StevenWright">Steven Wright</option>
+            <option value="WoodyAllen">Woody Allen</option>  
+            <option value="ZachG">Zach Galifianakis</option>  
+          </select>  
+        </div> 
+        <div class="section">
+          <button id="rand_b" title="Random Joke" class="jokenavbuttons">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+              <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+              <path d="M252.3 11.7c-15.6-15.6-40.9-15.6-56.6 0l-184 184c-15.6 15.6-15.6 40.9 0 56.6l184 184c15.6 15.6 40.9 15.6 56.6 0l184-184c15.6-15.6 15.6-40.9 0-56.6l-184-184zM248 224c0 13.3-10.7 24-24 24s-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24zM96 248c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24zm128 80c13.3 0 24 10.7 24 24s-10.7 24-24 24s-24-10.7-24-24s10.7-24 24-24zm128-80c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24zM224 72c13.3 0 24 10.7 24 24s-10.7 24-24 24s-24-10.7-24-24s10.7-24 24-24zm96 392c0 26.5 21.5 48 48 48H592c26.5 0 48-21.5 48-48V240c0-26.5-21.5-48-48-48H472.5c13.4 26.9 8.8 60.5-13.6 82.9L320 413.8V464zm160-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/>
+            </svg>
+            </button> 
+          <button id="fast_f" title="Fast Forward"  class="jokenavbuttons">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+              <!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+              <path d="M18.4 445c11.2 5.3 24.5 3.6 34.1-4.4L224 297.7V416c0 12.4 7.2 23.7 18.4 29s24.5 3.6 34.1-4.4L448 297.7V416c0 17.7 14.3 32 32 32s32-14.3 32-32V96c0-17.7-14.3-32-32-32s-32 14.3-32 32V214.3L276.5 71.4c-9.5-7.9-22.8-9.7-34.1-4.4S224 83.6 224 96V214.3L52.5 71.4c-9.5-7.9-22.8-9.7-34.1-4.4S0 83.6 0 96V416c0 12.4 7.2 23.7 18.4 29z"/>
+            </svg>
+            </button> 
+          <input id="curnum" type="number" title="Joke Number" min="0" value="0" /> / <b id="totalAmount"></b>
+        </div>   
+        <div id="joke" class="section"> </div> 
+        <div id="footer">
+          <a href="mailto:solobutoalexey@gmail.com" target="_blank"> solobutoalexey@gmail.com</a>     
+        </div>
+    </div> 
+    <script src="popup.js" type="module"></script>
   </body>
 </html>
